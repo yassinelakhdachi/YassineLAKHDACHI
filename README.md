@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ### 🛠 &nbsp;Tech Stack
 <div align="center">
   
-[![Gif](https://github.com/AnasDORBANI/AnasDORBANI/blob/a2a99d48c0e81c069d307b6f1028bd7a997b996d/resources/animation_500_kxa883sd.gif?raw=true)](#)\
+<!--[![Gif](https://github.com/AnasDORBANI/AnasDORBANI/blob/a2a99d48c0e81c069d307b6f1028bd7a997b996d/resources/animation_500_kxa883sd.gif?raw=true)](#)\-->
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](#)
@@ -43,9 +43,7 @@ Here are some ideas to get you started:
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](#)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
-<!--[![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)](#)
-[![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)](#)
-[![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)](#)-->
+
 </div>
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -62,4 +60,4 @@ Here are some ideas to get you started:
 
 [![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakhdachiyassine@gmail.com)
 [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-lakhdachi)
-<!--[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/anasdorbani)-->
+
