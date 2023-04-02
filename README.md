@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Yassine LAKHDACHI</h1>
-<h3 align="center">Software Engineering Student at ENSIAS | DevOps/Cloud Architecture enthusiast 🌟.</h3>
+<h3 align="center">Software Engineering Student at ENSIAS | DevOps/Cloud engineering enthusiast 🌟.</h3>
 
 <!--
 **AnasDORBANI/AnasDORBANI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
