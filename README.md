@@ -168,7 +168,7 @@
   
 [![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=yassinelakhdachi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)](#)\
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yassinelakhdachi&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](#)\
-[![GitHub Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yassinelakhdachi&layout=compact&langs_count=8&theme=algolia)](#)
+[<!--![GitHub Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yassinelakhdachi&layout=compact&langs_count=8&theme=algolia)-->](#)
 
 </div>
 
